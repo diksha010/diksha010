@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Diksha Suvarna</h1>
 <h3 align="center">A committed software developer embarking on a passionate journey</h3>
 
-- 🔭 I’m currently working on **---**
+- 🔭 I’m currently working on **Android Development Projects**
 
-- 🌱 I’m currently learning **---**
+- 🌱 I’m currently learning **Android Development, MERN Stack**
 
-- 💬 Ask me about **-----**
+- 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **--**
+- 📫 How to reach me **suvarnadiksha.204@gmail.com**
 
 - ⚡ Fun fact ****
 
